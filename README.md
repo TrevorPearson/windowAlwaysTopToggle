@@ -1,4 +1,4 @@
-# windowAlwaysTopToggle
+# Windows "Always On Top" Toggle
 Simple Autoit script to toggle state of a window with a hotkey
 
 
